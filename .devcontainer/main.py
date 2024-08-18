@@ -11,3 +11,8 @@ USERNAME:int=10#upper case
 num1:int=10
 num2:int=20
 print(10+20)
+firstName:str="meerab"
+lastName:str="mobin"
+print(firstName+lastName)
+num3=num1-num2*6
+print(num3)
