@@ -7,4 +7,7 @@ USERNAME:int=10#upper case
 #userName:str="nouraiz
 # num1:int=10
 #not:float=10.5
-#active:bool=true
+#active:bool=truepython 
+num1:int=10
+num2:int=20
+print(10+20)
