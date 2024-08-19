@@ -2,6 +2,6 @@ print("hello world")
 print("its me")
 print("hii")
 #starting operations
-5*6
+print(234*3293)
 
 
