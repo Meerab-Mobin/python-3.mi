@@ -34,4 +34,12 @@ total_number = float(input("total number:  "))
 percentage = (obtain_number)/(total_number)*(100)
 print(percentage)
 
-#
+#seconds into minutes
+variable=int(input("variables:  "))
+seconds=(variable)/(60)
+print(seconds)
+ 
+#minutes into seconds
+variable=int(input("variable:  "))
+minutes= (variable)*(60)
+print(minutes)
