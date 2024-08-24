@@ -43,3 +43,17 @@ print(seconds)
 variable=int(input("variable:  "))
 minutes= (variable)*(60)
 print(minutes)
+
+#volume of a cylinder
+#formula :pie r saqure h
+height = float(input("heightof a cylinder: "))
+r = float(input("r :  "))
+pie =float(input("pie:  "))
+volume =(pie)*(r)**2 *(height)
+print (volume)
+
+#calculate the BMI
+height =float(input("height: "))
+weight =float(input("weight: "))
+BMI =(weight)/(height)**2
+print(BMI)       
