@@ -1,4 +1,6 @@
-#methods of assigning name to a variable : 
+#methods of assigning name to a variable :
+
+#  clas one
 
 userName:int=10 #camel case : first letter is small and first letter of second name is capital
 user_name:int=10 #snake case: all letter are small with underscore
@@ -77,8 +79,23 @@ a*=5
 a/=5
 a%=5
 
+  
+#clas two
 
-#
-
-
-
+#practice of str 
+userName1:str= "meerab"#you can only write string in one line
+userName2:str= 'mobin'# same as above 
+username3: str =""" meerab mobin""" # you can create paragrafhs
+#ex to know how toad statements
+userNAm:str =userName1 + "is a good student "
+print (userNAm)
+#method 1 
+usernama :str = userName2 +"isa good student "
+print(usernama)
+#method 2
+username: str ="{} is a {}  good student" . format(username3  , userName2)
+print(username)
+#method 3 
+userHat :str = f" {userName1 } is a { userName2} daughter"
+print(userHat) 
+ 
