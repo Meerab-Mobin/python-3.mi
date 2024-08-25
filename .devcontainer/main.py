@@ -79,9 +79,9 @@ a+=5
 a-=5
 a*=5
 a/=5
-a%=5
+a%=5 
 
-  
+
 #clas no 2
 
 #practice of str 
@@ -117,11 +117,11 @@ def ADDTWONUM ():
 
 
 # METHOD 2
-def addthreenum (num1:int,num2:int) :
+def addthreenum (num1:int,num2:int) : # nm in ( )caled apra metiers
     result = num1+num2 
     print(result)
 
-addthreenum(10,20) # built_in function
+addthreenum(10,20) # built_in function # nm in () called argumaent 
 
 #what is calling functions 
 print()
@@ -129,7 +129,7 @@ int()
 str()
 float() 
 input() #etc. 
-id() # gives adress
+id() # gives address
 
 
 
