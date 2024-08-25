@@ -103,6 +103,14 @@ print(username)
 
 #method 3 
 userHat :str = f" {userName1 } is a { userName2} daughter"
-print(userHat) 
- 
- #
+print(userHat)
+
+
+# making blocks 
+def ADDTWONUM (): 
+    num1 = 10
+    num2 = 20 
+    result = num1 + num2
+    print (result)
+
+
