@@ -57,3 +57,4 @@ height =float(input("height: "))
 weight =float(input("weight: "))
 BMI =(weight)/(height)**2
 print(BMI)       
+
