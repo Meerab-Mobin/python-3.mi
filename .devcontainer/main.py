@@ -86,16 +86,23 @@ a%=5
 userName1:str= "meerab"#you can only write string in one line
 userName2:str= 'mobin'# same as above 
 username3: str =""" meerab mobin""" # you can create paragrafhs
-#ex to know how toad statements
+#ex to know how to ad statements
 userNAm:str =userName1 + "is a good student "
 print (userNAm)
+
+
 #method 1 
 usernama :str = userName2 +"isa good student "
 print(usernama)
+
+
 #method 2
 username: str ="{} is a {}  good student" . format(username3  , userName2)
 print(username)
+
+
 #method 3 
 userHat :str = f" {userName1 } is a { userName2} daughter"
 print(userHat) 
  
+ #
