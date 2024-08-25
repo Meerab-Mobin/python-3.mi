@@ -36,13 +36,20 @@ USERNAME:int=10 #upper case: all letters are capital
 #userName:str="nouraiz
 # num1:int=10
 #not:float=10.5
-#active:bool=truepython 
+#active:bool=truepython  
+
+#pactice of int
 num1:int=10
 num2:int=20
-print(10+20)
+print(10+20) 
+ 
+ #practice of str
 firstName:str="meerab"
 lastName:str="mobin"
 print(firstName+lastName)
+
+#pactice of arthematic operations
+
 num3=num1-num2*6
 print(num3)
 
@@ -63,12 +70,15 @@ print(c)
 c = 2//5
 print(c)
 
+#arthematic asignment operators
 a+=5
 a-=5
 a*=5
 a/=5
 a%=5
 
+
+#
 
 
 
