@@ -118,10 +118,17 @@ def ADDTWONUM ():
 
 # METHOD 2
 def addthreenum (num1:int,num2:int) : # nm in ( )caled apra metiers
-    result = num1+num2 
-    print(result)
+    result:int  =( num1+num2 )
+    return( result)
+ 
+ # runing blocks
+addthreenum(10,20) # built_in function # nm in () called argumaenT
 
-addthreenum(10,20) # built_in function # nm in () called argumaent 
+#for out put 
+finalOUTPUT:int = addthreenum(50,40)
+
+print(finalOUTPUT)
+
 
 #what is calling functions 
 print()
