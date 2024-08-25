@@ -1,6 +1,8 @@
+# class no 1
+
+
 #methods of assigning name to a variable :
 
-#  clas one
 
 userName:int=10 #camel case : first letter is small and first letter of second name is capital
 user_name:int=10 #snake case: all letter are small with underscore
@@ -80,7 +82,7 @@ a/=5
 a%=5
 
   
-#clas two
+#clas no 2
 
 #practice of str 
 userName1:str= "meerab"#you can only write string in one line
@@ -112,5 +114,22 @@ def ADDTWONUM ():
     num2 = 20 
     result = num1 + num2
     print (result)
+
+
+# METHOD 2
+def addthreenum (num1:int,num2:int) :
+    result = num1+num2 
+    print(result)
+
+addthreenum(10,20) # built_in function
+
+#what is calling functions 
+print()
+int()
+str()
+float() 
+input() #etc. 
+id() # gives adress
+
 
 
