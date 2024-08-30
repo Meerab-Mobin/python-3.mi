@@ -23,26 +23,30 @@ def area2 ():
 
 #area of cube
 #area=6a**2
-a =float(input("a is equal to: "))
-v=int(6)
-area_of_cube =(a**2)*v
-print(area_of_cube)
+def area_of_cube ():
+    a =float(input("a is equal to: "))
+    v=int(6)
+    area_of_cube =(a**2)*v
+    print(area_of_cube)
 
 #temp from F to C
-FRY=float(input("temp in F:  "))
-Celsius =(5) /(9)*(FRY)-(32)
-print(Celsius)
+def celsius():
+    FRY=float(input("temp in F:  "))
+    Celsius =(5) /(9)*(FRY)-(32)
+    print(Celsius)
 
 #calculate a percentage
-obtain_number =float(input("obtain number:  "))
-total_number = float(input("total number:  "))
-percentage = (obtain_number)/(total_number)*(100)
-print(percentage)
+def percentage():
+    obtain_number =float(input("obtain number:  "))
+    total_number = float(input("total number:  "))
+    percentage = (obtain_number)/(total_number)*(100)
+    print(percentage)
 
 #seconds into minutes
-variable=int(input("variables:  "))
-seconds=(variable)/(60)
-print(seconds)
+def sacond():
+    variable=int(input("variables:  "))
+    seconds=(variable)/(60)
+    print(seconds)
  
 #minutes into seconds
 variable=int(input("variable:  "))
