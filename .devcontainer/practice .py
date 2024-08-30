@@ -1,20 +1,25 @@
 # problem no 1:your age 
-current_year = 2024
-birth_year = int(input("your birth year: "))
-your_age = current_year - birth_year
-print(your_age )
+def age (current_year:int, ) :
+    current_year = 2024
+    birth_year = int(input("your birth year: "))
+    your_age = current_year - birth_year
+    print(your_age )
+
+
 
 #area of rectangle
-lenght=int(input("enter the lenght of rectangle"))
-width=int(input("enter width of ractangle "))
-area= lenght*width
-print(area)
+def area ():
+    lenght=int(input("enter the lenght of rectangle"))
+    width=int(input("enter width of ractangle "))
+    area= lenght*width
+    print(area)
 
 #area of circle 
-r = float(input("radius of the circle: "))
-pie_of_circle = float(input("pie:   "))
-area = (r**2)*pie_of_circle
-print(area)
+def area2 ():
+    r = float(input("radius of the circle: "))
+    pie_of_circle = float(input("pie:   "))
+    area = (r**2)*pie_of_circle
+    print(area)
 
 #area of cube
 #area=6a**2
