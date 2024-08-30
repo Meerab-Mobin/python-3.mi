@@ -70,3 +70,4 @@ def BMI ():
     BMI =(weight)/(height)**2
     print(BMI)       
 
+is that all
