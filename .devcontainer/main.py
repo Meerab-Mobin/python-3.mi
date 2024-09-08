@@ -139,4 +139,15 @@ input() #etc.
 id() # gives address
 
 # classs 4444444444444
-# to call code many times #we will run about it 
+# to call code many times #we will run about it #called loop 
+
+#loop will not stop until value is false 
+count :int = int ("enter the number: ")
+while count < 10 :
+    print("hello world ", count )
+    count = count +1
+    
+
+print (count)
+count:int= int(input("enter the number " ))
+
