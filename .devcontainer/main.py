@@ -171,7 +171,7 @@ for username in studentnames:
 
 print( "all is" ,username)
 
-#to add variables is list 
+#different functions is list 
 
 studentnames.append("tariq ")#to add something
 studentnames.insert(2 ,"abc")# to add abc into no 2
@@ -179,7 +179,7 @@ studentnames.remove("ali")# to remove ali
 studentnames.pop(3) #we provide this no to remove 
 studentnames.reverse()# to reverse student names 
 
-
+# makiing of table of two 
 
 
 
