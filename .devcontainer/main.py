@@ -136,7 +136,7 @@ int()
 str()
 float() 
 input() #etc. 
-id() # gives address
+#id() # gives address
 
 # classs 4444444444444
 # to call code many times #we will run about it #called loop 
@@ -148,8 +148,76 @@ while count < 10 :
     count = count +1
     
 
-for count in rage(1,11  ): 
-    print("hello world ", count)
+print("total ", count )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # range 
 #loop 
