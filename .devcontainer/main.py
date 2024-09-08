@@ -150,11 +150,14 @@ while count < 10 :
 
 print("total ", count )
 
+#list function
+ 
+studentnames:list [str] = ["ali ","umer ", "meeran"]
 
+for username in studentnames:
+    print(username )
 
-
-
-
+print( "all is" ,username)
 
 
 
