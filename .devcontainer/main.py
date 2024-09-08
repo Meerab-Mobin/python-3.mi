@@ -140,6 +140,18 @@ input() #etc.
 
 # classs 4444444444444
 # to call code many times #we will run about it #called loop 
+ 
+ # range 
+#loop 
+# #braek
+#  #continue 
+# #for
+#  #while 
+
+
+
+
+
 
 #loop will not stop until value is false 
 count :int = 1
@@ -221,9 +233,3 @@ studentnames.reverse()# to reverse student names
 
 
 
-# range 
-#loop 
-# #braek
-#  #continue 
-# #for
-#  #while 
