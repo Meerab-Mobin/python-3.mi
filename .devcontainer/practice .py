@@ -1,9 +1,11 @@
 # problem no 1:your age 
-def age (current_year:int, ) :
-    current_year = 2024
-    birth_year = int(input("your birth year: "))
-    your_age = current_year - birth_year
-    print(your_age )
+def your_age  (current_year:int, birth_year:int):
+    result_age  = current_year - birth_year
+    return  result_age
+
+print("Age calculator!")
+birth_year=int(input("Enter your birth_year:"))
+print("Your age is:",your_age(birth_year))
 
 
 
@@ -69,5 +71,8 @@ def BMI ():
     weight =float(input("weight: "))
     BMI =(weight)/(height)**2
     print(BMI)       
+ 
+ 
+ 
 
-is that all
+
