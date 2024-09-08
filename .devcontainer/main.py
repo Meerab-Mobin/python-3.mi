@@ -142,12 +142,18 @@ id() # gives address
 # to call code many times #we will run about it #called loop 
 
 #loop will not stop until value is false 
-count :int = int ("enter the number: ")
+count :int = 1
 while count < 10 :
     print("hello world ", count )
     count = count +1
     
 
-print (count)
-count:int= int(input("enter the number " ))
+for count in rage(1,11  ): 
+    print("hello world ", count)
 
+# range 
+#loop 
+# #braek
+#  #continue 
+# #for
+#  #while 
