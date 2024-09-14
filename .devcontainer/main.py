@@ -181,7 +181,7 @@ studentnames.reverse()# to reverse student names
 
 # makiing of table of two 
 
-while count
+while count :
 
 
 
