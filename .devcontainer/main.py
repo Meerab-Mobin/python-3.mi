@@ -150,7 +150,7 @@ input() #etc.
 
 
 
-
+#classs4 
 
 
 #loop will not stop until value is false 
@@ -181,7 +181,7 @@ studentnames.reverse()# to reverse student names
 
 # makiing of table of two 
 
-
+while count
 
 
 
