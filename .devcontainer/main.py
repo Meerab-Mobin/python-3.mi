@@ -147,7 +147,7 @@ input() #etc.
 #  #continue 
 # #for
 #  #while 
-
+#i for index 
 # first make list and name then then we take take "i" ,then we make statement that
 #  while i < len(nums):
 
