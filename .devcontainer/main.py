@@ -167,7 +167,7 @@ while i < len(nums): # len means lenght of number
 
 
 #loop will not stop until value is false 
-count :int = 1
+ count :int = 1
 while count < 10 :
     print("hello world ", count )
     count = count +1
