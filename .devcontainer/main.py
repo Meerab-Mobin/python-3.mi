@@ -149,7 +149,7 @@ input() #etc.
 #  #while 
 #i for index 
 # first make list and name then then we take take "i" ,then we make statement that
-#  while i < len(nums):
+while i < len(nums): # len means lenght of number 
 
 
 
