@@ -141,12 +141,25 @@ input() #etc.
 # classs 4444444444444
 # to call code many times #we will run about it #called loop 
  
- # range 
+# range 
 #loop 
 # #braek
 #  #continue 
 # #for
 #  #while 
+
+# first make list and name then then we take take "i" ,then we make statement that
+#  while i < len(nums):
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -164,7 +177,7 @@ print("total ", count )
 
 #list function
  
-studentnames:list [str] = ["ali ","umer ", "meeran"]
+studentnames:list [str] = ["ali ","umer ", "meeran"]#list functoin will always be in[]
 
 for username in studentnames:
     print(username )
