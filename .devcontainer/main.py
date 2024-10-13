@@ -208,3 +208,20 @@ except zerodivisionerror:
 value error # for int 
 exception as e # for unknown error 
 zero division error # for zero 
+# practice 
+
+
+try: 
+    result = 10/2  # always run 
+
+except eexception as e :
+    print ("an error occured: e ") # in case of error 
+
+else :
+    print ("suceess the result is :", result )   # it wil run 
+
+finally : 
+    print ( "close the file ")    # always run 
+
+def division(a/b ):
+    raise value error ("this is due to coustom error ")
