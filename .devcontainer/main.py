@@ -231,6 +231,8 @@ import # file name
 # now to call fuc from other file 
 #file name . block  name 
                         # it willl take you to other file 
+import helper.utilis as utillis                         
+from data import printstudent 
 
 #built in module 
 # math ,random ,time                        
