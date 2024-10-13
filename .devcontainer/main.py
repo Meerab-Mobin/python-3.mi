@@ -240,3 +240,26 @@ from data import printstudent
 # start time 
 #sum
 # end time 
+
+# file handling 
+file = open ('example . txt ', 'r')# to open file in read mode 
+content = file. read ()
+print (content )
+file . close 
+
+#mehod 2 
+with open('example.txt','r')as file  :
+    content = file . read 
+    print (content )
+
+# same as    write w 
+# same as append to combine both a ("/n then line ")
+
+import os  
+if os.path.exist ('example . txt ', ''):
+
+
+os .mkdir('newfolder')
+os.rename(newfolder, no folder )
+os.rmdir ('renamed folder ')
+os.listdir()
