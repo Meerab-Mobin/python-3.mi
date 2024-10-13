@@ -225,3 +225,16 @@ finally :
 
 def division(a/b ):
     raise value error ("this is due to coustom error ")
+
+# to run one file into other 
+import # file name 
+# now to call fuc from other file 
+#file name . block  name 
+                        # it willl take you to other file 
+
+#built in module 
+# math ,random ,time                        
+# random int  
+# start time 
+#sum
+# end time 
