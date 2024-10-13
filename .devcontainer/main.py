@@ -193,3 +193,18 @@ studentnames.pop(3) #we provide this no to remove
 studentnames.reverse()# to reverse student names 
 
 # makiing of table of two 
+
+
+#classs 7-8
+
+
+
+
+try:
+    result = 10/0 
+except zerodivisionerror: 
+    print("error ")
+
+value error # for int 
+exception as e # for unknown error 
+zero division error # for zero 
