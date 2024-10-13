@@ -263,3 +263,4 @@ os .mkdir('newfolder')
 os.rename(newfolder, no folder )
 os.rmdir ('renamed folder ')
 os.listdir()
+os.rm('')# to remove 
