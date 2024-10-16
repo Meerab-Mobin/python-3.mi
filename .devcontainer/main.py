@@ -239,7 +239,8 @@ from data import printstudent
 # random int  
 # start time 
 #sum
-# end time 
+# end time  
+#time.sleep()#ibrac()line no 
 
 # file handling 
 file = open ('example . txt ', 'r')# to open file in read mode 
@@ -264,3 +265,17 @@ os.rename(newfolder, no folder )
 os.rmdir ('renamed folder ')
 os.listdir()
 os.rm('')# to remove 
+
+errors 
+synthex error == system tell us about it 
+logical error == system cnnot detect  only programmer can 
+runtime error == program crash kar jata ha or iss kay liye try or except use kartay hai 
+try ,except #like if and else 
+except # ZerodivisionError:                       
+
+class #parent 
+supar 
+constructre 
+object 
+
+
