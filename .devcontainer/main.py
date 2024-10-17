@@ -205,9 +205,9 @@ try:
 except zerodivisionerror: 
     print("error ")
 
-value error # for int 
-exception as e # for unknown error 
-zero division error # for zero 
+#VALUE EROR  for int 
+#exception as e # for unknown error 
+#zero division error # for zero 
 # practice 
 
 
