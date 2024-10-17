@@ -1,10 +1,15 @@
-class universty :
-    def humans  (self): 
-        self.teachers  = int(input("universty teachers,   "))
-        self.students =int(input ("universty students , "))
+class Universty : 
+    def humans (self ):
+        print("universty students ")
+        print("universty teachers ")
 
-    def display ():
-        print (self. teacher )
-        print (self.student)
-universty = self.students()
-universty=self.teachers()
+    def faculty  (self ,x,y):
+        print("teachers data")
+    def students_timings (self):
+
+
+        
+alpa = Universty ()
+alpa.humans()
+
+
