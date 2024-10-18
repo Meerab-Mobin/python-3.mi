@@ -223,7 +223,7 @@ else :
 finally : 
     print ( "close the file ")    # always run 
 
-def division(a/b ):
+def division(a / b ) :
     raise value error ("this is due to coustom error ")
 
 # to run one file into other 
