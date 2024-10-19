@@ -6,8 +6,8 @@ class Universty :
         print("universty teachers ")
 
     def faculty  (self,x,y  ):
-        print("teachers " )
-        print("students")
+        print("teachers ",x )
+        print("students",y)
 
    
     def students_timings_1_7  (self):
@@ -16,12 +16,15 @@ class Universty :
     
 
     def classes_from_2_6 (self):
-        terachers:list [str] = ["dr amin ", "dr tariq ", "dr khalid "]
+        teachers:list [str] = ["dr amin ", "dr tariq ", "dr khalid "]
         st:list [str] = ["sulsabeel","haram","annaya ","mobin"]
-
+        print("teachers list from 2_6 ", teachers )
+        print("students list from 2_6  ", st)
 
 alpa = Universty ()
 alpa.humans()
 alpa.faculty (10,20)
+alpa.faculty.x()
+alpa.faclty.y ()
 alpa.students_timings_1_7()
 alpa.classes_from_2_6()                                                                                                                                        
