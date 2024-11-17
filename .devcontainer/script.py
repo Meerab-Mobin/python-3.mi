@@ -11,9 +11,12 @@
 num:int = int(input("enter the number ",   ))
 count :int = 1  
 total:int = 0 
-while count <10 :
+while count <11 :
     print (f"{num} * {count} =  ", num * count )
     count +=1 
 
 
-while 
+while count < num :
+    if 2 % count ==0 :
+
+
