@@ -214,7 +214,7 @@ except zerodivisionerror:
 try: 
     result = 10/2  # always run 
 
-except eexception as e :
+except exception as e :
     print ("an error occured: e ") # in case of error 
 
 else :
