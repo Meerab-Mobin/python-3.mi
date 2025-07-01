@@ -4,3 +4,4 @@ int main ( void )
     printf("hello,world/n");
 }
 
+# error because we write code like we do in c language 
