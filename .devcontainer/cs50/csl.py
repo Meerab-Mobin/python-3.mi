@@ -5,3 +5,4 @@ int main ( void )
 }
 
 # error because we write code like we do in c language 
+#that whay dont take it seriously 
